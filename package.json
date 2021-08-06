@@ -1,0 +1,15 @@
+{
+  "name": "thog",
+  "version": "1.0.0",
+  "description": "thog dont caare.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "detritus-client": "^0.10.1"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
